@@ -1,1 +1,2 @@
-"This is my first project at Holberton School."
+"This is my first project at Holberton School. "
+
